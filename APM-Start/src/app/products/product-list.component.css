@@ -1,0 +1,7 @@
+.panel-heading {
+    background: linear-gradient(to bottom right, #424242, #593aff);
+}
+
+thead {
+    color: blue;
+}
