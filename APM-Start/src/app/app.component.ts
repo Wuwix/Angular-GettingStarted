@@ -15,7 +15,7 @@ import { ProductService } from "./products/product.service";
 		</div>
   </nav>
   <div class = 'container'>  
-      <router-outlet></router-outlet>
+  <router-outlet></router-outlet>
   </div>
 </div>
   `,
